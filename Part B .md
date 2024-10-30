@@ -14,3 +14,11 @@
 
 ### * Lifewire
 ####  - https://www.lifewire.com/fix-microsoft-word-not-responding-4688998
+
+
+
+These are  consist of primarily step-by-step processes in the aim of resolving specific problems,
+the application may be experiencing in running or freezing up.
+They will serve as guides to be utilized by themselves, as well as support personnel,
+in troubleshooting and resolving those problems encountered in Word.
+
