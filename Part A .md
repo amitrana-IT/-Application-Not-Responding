@@ -3,7 +3,9 @@
 ## Questions 
 
  - When did this issue start occurring?
+   
  -  Have you installed any new software or hardware recently?
+   
  -  What is the model of your laptop? 
 
 ### link :
